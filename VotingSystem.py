@@ -1,4 +1,4 @@
-class VotingSystem:
+class Voting_System:
     def __init__(self):
         self.candidate1_votes = 0
         self.candidate2_votes = 0
